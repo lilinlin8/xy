@@ -1,0 +1,78 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+ul,li {
+	list-style: none;
+}
+.loge{
+	width: 320px;
+	height: 238px;
+	padding: 22px 0 16px;
+	margin: 0 auto;
+}
+.loge img{
+	display: block;
+	width: 320px;
+	height: 238px;
+}
+.lijianzhuang{
+	display: block;
+	width: 230px;
+	height: 46px;
+	margin: 0 auto;
+	}
+.lijianzhuang img{
+		display: block;
+	width: 230px;
+	height: 46px;
+	}
+.tishi{
+	color: #87949f;
+	font-size: 13px;
+	text-align: center;
+	padding: 10px 0 35px;
+}
+.zhuti{
+	display: block;
+	width: 320px;
+	margin: 0 auto;
+}
+.list {
+	width: 320px;
+	margin: 0 auto;
+	padding: 31px 0 14px;
+}
+.list li{
+	padding-left:44px ;
+	padding-bottom: 16px;
+	overflow: hidden;
+}
+.list li img{
+	display: block;
+	width: 64px;
+	height: 64px;
+	float: left;
+}
+.list .biaotitxt{
+	padding-left: 14px;
+	float: left;
+}
+.list .biaotitxt h1{
+	font-size: 13px;
+	color: #3a4048;
+	font-weight: normal;
+	padding: 14px 0 11px;
+}
+.list .biaotitxt p{
+	font-size: 11px;
+	color: #87949f;
+}
+footer{
+	font-size: 12px;
+	text-align: center;
+	color: #87949F;
+	padding: 10px 0;
+	line-height: 1.5em;
+	background: #f9f9f9;
+}
